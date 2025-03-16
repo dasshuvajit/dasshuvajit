@@ -4,22 +4,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
 <h1 align="center">Hi 👋, I'm Shuvajit Das</h1>
 <h3 align="center">A passionate mobile and backend developer from Bangladesh</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dasshuvajit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dasshuvajit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
 
@@ -75,6 +61,22 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dasshuvajit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dasshuvajit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<h3 align="left">🏆 GitHub Trophies</h3>
+
+###
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dasshuvajit&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+###
+
 <h3 align="left">📫 Connect with Me</h3>
 
 ###
@@ -99,13 +101,5 @@
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
   </a>
 </div>
-
-###
-
-<h3 align="left">🏆 GitHub Trophies</h3>
-
-###
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dasshuvajit&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ###
